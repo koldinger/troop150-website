@@ -152,7 +152,6 @@ Are you wanting to complete a specific merit badge, but don't know who to ask? W
 |Citizenship in the Society [^4]|Joel Ritenour and Chris Shull|No|
 
 
-
 [^1]: Emergency Preparedness and Lifesaving are both Eagle Required, but you only have to do one of them. 
 
 [^2]: Environmental Science and Sustainability are both Eagle Required, but you only have to do one of them.
@@ -160,3 +159,11 @@ Are you wanting to complete a specific merit badge, but don't know who to ask? W
 [^3]: Swimming, Hiking, and Cycling are all Eagle Required, but you only have to do one of them.
 
 [^4]: Citizenship in Society has been Discontinued and cannot be started.  It is no longer Eagle Required.  If a scout is working on it, it can be completed as an elective through 2026.
+
+
+Adults:
+Are you interested in being a merit badge counselor?   We're always looking for more counselors, especially for
+Eagle required merit badges.
+
+Please see [Becoming a Merit Badge Counselor](/become-a-merit-badge-counselor)
+
