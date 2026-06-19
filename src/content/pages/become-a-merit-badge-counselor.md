@@ -1,8 +1,9 @@
-
 ---
-title: "How Become a Merit Badge Counselor
+title: "How to Become a Merit Badge Counselor"
+description: "steps to becoming a merit badge counselor"
 draft: false
 ---
+
 
 # Steps to becoming a merit badge counselor.
 
@@ -19,6 +20,7 @@ draft: false
 - Go to Badger, and create an account: https://cpcscouting.org/login-to-badger/
 - Login to Badger.   Click on the “Merit Badges” Icon (red, with a hammer and wrench) and scroll down to “Submit a request”.   Pick as many merit badges as you like and submit each one.
   -  Be sure to include a reason why you’re qualified.   Can really be as simple as “I like [whatever the merit badge is about]” but more info is useful.
+  -  Indicate if you only want to be a counselor for the troop, the district, or the whole council.
 - Wait a bit until you get confirmation email.
 - Counsel to your hearts delight.
 
